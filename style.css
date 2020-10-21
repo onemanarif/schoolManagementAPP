@@ -12,5 +12,36 @@
 }
 .video{
     margin-top: 50px;
+    margin-bottom: 60px;
+    
 }
+.slider-text{
+    padding-left: 30px;
+}
+.slider-heading{
+    font-size: 36px;
+    font-weight: 700;
+    color: #f17777;
+}
+.slider-description{
+    width: 80%;
+    margin: 40px 0;
+    text-align: justify;
+    color: rgb(74, 194, 168);
+}
+.carousel-indicators li{
+    height: 8px;
+    border-radius: 12px;
+    background-color: gray;
+    
+}
+.checked {
+    color: orange;
+  }
+  .footer{
+ margin-top: 60px;
+  }
+  .ratingColor{
+    color: #f17777;
+  }
 
